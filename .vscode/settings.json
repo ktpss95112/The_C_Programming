@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "c",
+        "stdio.h": "c",
+        "*.tcc": "c",
+        "istream": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "string_view": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.errorSquiggles": "Disabled"
+}
