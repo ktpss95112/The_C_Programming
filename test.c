@@ -5,8 +5,7 @@
 #define false 0
 
 int main(){
-    
-        
+
 #ifdef DEBUG
     printf("press ctrl+C to exit ...\n");
     while(1);
